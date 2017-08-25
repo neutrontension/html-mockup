@@ -46,3 +46,14 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.hero img {
+	width: 100%;
+}
+.top-bar {
+	padding: 0 81px;
+	position: absolute;
+}
+.top-bar li {
+	display: inline-block;
+	padding: 20px;
+}
